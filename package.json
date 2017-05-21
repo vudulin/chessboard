@@ -1,0 +1,19 @@
+{
+  "name": "chessboard-editor",
+  "version": "1.0.0",
+  "description": "This is the first project in Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vudulin/chessboard.git"
+  },
+  "author": "Vladimir Dulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vudulin/chessboard/issues"
+  },
+  "homepage": "https://github.com/vudulin/chessboard#readme"
+}
